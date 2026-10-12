@@ -46,9 +46,9 @@ This project is created for learning purposes as part of Social Media Analytics 
 
 Author
 
-Kuldeep Patidar
-Heer Dipakkumar Mistry
-Hariom Yadav
+1.Kuldeep Patidar
+2.Heer Dipakkumar Mistry
+3.Hariom Yadav
 
 University
 Parul University
